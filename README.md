@@ -7,7 +7,7 @@ Technologies used in this project:
 
 Spring framework (Spring Boot)
 
-MySQL database
+Hibernate
 
 Spring MVC
 
