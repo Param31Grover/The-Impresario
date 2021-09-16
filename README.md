@@ -41,6 +41,4 @@ Functionalities:
 * possibility to add custom name to exported file
 
 
-6. API
-
-* ability to get customers list through eg postman or curl
+- Param Grover
