@@ -1,19 +1,10 @@
-# The-Impresario
+## The-Impresario
 Customer relationship management system made using Spring Boot.
 
 
 
-Technologies used in this project:
-
-Spring framework (Spring Boot)
-
-Hibernate
-
-Spring MVC
-
-Spring Data
-
-Spring Security
+Tech stack used for this project: 
+Spring framework (Spring Boot) , Hibernate ,Spring MVC , Spring Data , Spring Security
 
 Functionalities:
 
@@ -28,7 +19,11 @@ Functionalities:
 
 * custom searches based on various parameters
 
-3. Creating roles and access rights
+3. Contracts generation
+
+ * create contracts
+
+4. Creating roles and access rights
 
 * structure of rights: user, manager, owner, admin
 
@@ -38,11 +33,6 @@ Functionalities:
 
 * used spring security to achieve this
 
-
-4. Contracts generation
-
- * create contracts
- 
  
 5. Exporting data
 
